@@ -1,0 +1,2 @@
+# aws_s3_gw_endpoint_proxy_test
+S3 GWエンドポイント用のプロキシサーバー構築実験
